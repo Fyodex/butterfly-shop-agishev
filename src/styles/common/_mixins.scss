@@ -3,3 +3,12 @@
   margin: 0 auto;
   border: 1px solid red;
 }
+@mixin copyright{
+  margin-right: 624px;
+  padding-left: 82px;
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 57px;
+  color: #fff;
+  text-decoration: none;
+}
