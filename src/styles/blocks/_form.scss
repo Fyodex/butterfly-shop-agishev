@@ -18,7 +18,8 @@
   line-height: 27px;
 }
 
-.form-input {
+.form-input,
+.form-text {
   width: 100%;
   background: #fff;
   border-radius: 5px;
@@ -30,6 +31,11 @@
   padding: 35px 30px;
   border: none;
 
+}
+
+.form-text {
+  height: 167px;
+  resize: vertical;
 }
 
 .form-btn {
